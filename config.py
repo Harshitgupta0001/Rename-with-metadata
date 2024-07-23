@@ -81,7 +81,7 @@ Exᴀᴍᴩʟᴇ: <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 """
 
     PROGRESS_BAR = """<b>\n
-╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱
+╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━@harshit_g91━━>
 🗃️ sɪᴢᴇ: {1} | {2}
 ⏳️ ᴅᴏɴᴇ : {0}%
 🚀 sᴘᴇᴇᴅ: {3}/s
